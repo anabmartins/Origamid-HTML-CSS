@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
   font-family: Arial;
 }
@@ -15,4 +16,23 @@ h2 a{
 }
 p{
   font-size: 20px;
+=======
+body{
+  font-family: Arial;
+}
+.hj{
+  color: darkred;
+}
+.am{
+  color: darkblue;
+}
+a{
+  text-decoration: none;
+}
+h2 a{
+  color: seagreen;
+}
+p{
+  font-size: 20px;
+>>>>>>> 1d3636a04d5e95566d96d4b1faaaee8b74497cdd
 }
