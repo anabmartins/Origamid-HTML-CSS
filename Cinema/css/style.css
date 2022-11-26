@@ -1,0 +1,18 @@
+body{
+  font-family: Arial;
+}
+.hj{
+  color: darkred;
+}
+.am{
+  color: darkblue;
+}
+a{
+  text-decoration: none;
+}
+h2 a{
+  color: seagreen;
+}
+p{
+  font-size: 20px;
+}
