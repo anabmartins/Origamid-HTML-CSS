@@ -1,0 +1,17 @@
+div {
+  background-color: #aaa;
+  width: 140px;
+  height: 80px;
+  padding: 30px;
+  border: 10px solid #111;
+  margin: 30px;
+}
+h1{
+  background-color: #84e;
+  padding: 20px;
+  border: 4px solid #111;
+  margin: 20px;
+}
+body{
+  margin: 0px;
+}
