@@ -1,9 +1,12 @@
-body {
-  color: seagreen;
-  font-size: 20px;
+span,
+a,
+strong {
+  border: 1px solid rgba(0, 0, 0, 0.5);
 }
 
-a {
-  color: inherit;
-  /* herança */
+h1,
+p,
+h2,
+div {
+  border: 1px solid rgba(255, 0, 0, 0.5);
 }
