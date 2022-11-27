@@ -1,0 +1,9 @@
+body {
+  color: seagreen;
+  font-size: 20px;
+}
+
+a {
+  color: inherit;
+  /* herança */
+}
