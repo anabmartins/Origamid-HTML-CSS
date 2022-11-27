@@ -1,3 +1,19 @@
 body{
   font-family: Arial;
+  margin: 50px;
+  background-color: #B5D7DF;
+}
+div{
+background: #fff;
+border-radius: 5px;
+padding: 20px;
+}
+a{
+  display: flex;
+  padding: 15px;
+  font-size: 18px;
+  color: #022C43;
+}
+h1{
+  padding: 15px;
 }
