@@ -1,0 +1,11 @@
+img{
+  width: 100%;
+  display: block;
+}
+div{
+  width:900px;
+  background: lightblue;
+}
+.foto{
+  width: 150px;
+}
