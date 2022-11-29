@@ -1,4 +1,6 @@
-
+.grid{
+  display: grid;
+}
 
 /* Estilos Gerais */
 body {
@@ -33,6 +35,4 @@ img{
   padding: 5px 10px;
   border-radius: 4px;
 }
-.grid{
-  display: grid;
-}
+
