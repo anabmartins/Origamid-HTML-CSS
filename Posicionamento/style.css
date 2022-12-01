@@ -1,12 +1,18 @@
-span,
-a,
-strong {
-  border: 1px solid rgba(0, 0, 0, 0.5);
+.fixo {
+  position: fixed;
+  bottom: 40px;
+  left: 40px;
 }
 
-h1,
-p,
-h2,
-div {
-  border: 1px solid rgba(255, 0, 0, 0.5);
+h1 {
+  border: 2px solid #ccc;
+  padding: 20px 20px 500px 20px;
+}
+
+p {
+  background: #e7e7e7;
+  border: 1px solid #d7d7d7;
+  padding: 20px;
+  margin: 0px;
+  font-size: 20px;
 }
