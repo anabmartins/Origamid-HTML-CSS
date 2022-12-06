@@ -1,0 +1,9 @@
+body{
+  margin: 0px;
+}
+div{
+  background: lightblue;
+  /* metade da tela */
+  width: calc(100vh / 2);
+  height: 100vh;
+}
