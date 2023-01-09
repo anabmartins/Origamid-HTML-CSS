@@ -12,3 +12,9 @@ h1{
   background-color: white;
   padding: 1rem 2rem;
 }
+.pattern{
+  height: 380px;
+  background-color: lightcoral;
+  background-image: url();
+  background-repeat: repeat;
+}
